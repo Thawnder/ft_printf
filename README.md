@@ -4,7 +4,8 @@
 
 ## Features
 - Custom implementation of the printf function.
-- Support for various format specifiers, flags, and modifiers.
+- Support for various format specifiers.
+- Support for various flags, and modifiers. (bonus)
 - Efficient and accurate output formatting.
 - Integration with other projects within the 42 curriculum.
 
